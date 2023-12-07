@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.255" height="8.534" viewBox="0 0 30.255 8.534">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.01" stop-color="#00a7e3"/>
+      <stop offset="0.337" stop-color="#009ddc"/>
+      <stop offset="0.875" stop-color="#0084c9"/>
+      <stop offset="1" stop-color="#007ec4"/>
+    </linearGradient>
+  </defs>
+  <g id="Сгруппировать_3114" data-name="Сгруппировать 3114" transform="translate(0 0)">
+    <path id="Контур_1140" data-name="Контур 1140" d="M275.466,111.074l-1.911,4.141h-.194v-5.042h-2.715v8.533h2.3a1.552,1.552,0,0,0,1.408-.9l1.912-4.141h.194v5.042h2.715v-8.533h-2.3a1.551,1.551,0,0,0-1.409.9" transform="translate(-258.621 -110.173)" fill="#20aa4d"/>
+    <path id="Контур_1141" data-name="Контур 1141" d="M163.97,111.293l-1.131,3.921h-.194l-1.131-3.921a1.552,1.552,0,0,0-1.491-1.122h-2.712V118.7h2.715v-5.043h.194l1.551,5.043h1.939l1.551-5.043h.194V118.7h2.715v-8.534h-2.712a1.552,1.552,0,0,0-1.491,1.122" transform="translate(-157.312 -110.171)" fill="#20aa4d"/>
+    <path id="Контур_1142" data-name="Контур 1142" d="M362.05,146.734v4.655h2.71v-2.715h2.915a2.908,2.908,0,0,0,2.74-1.94Z" transform="translate(-340.329 -142.855)" fill="#20aa4d"/>
+    <path id="Контур_1143" data-name="Контур 1143" d="M364.4,110.173h-6.012a4.266,4.266,0,0,0,4.194,3.491h4.669a2.957,2.957,0,0,0,.058-.582,2.909,2.909,0,0,0-2.909-2.909" transform="translate(-337.059 -110.173)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

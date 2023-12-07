@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption&family=Roboto&display=swap');
+
+ * {
+    font-family: 'Aqum', sans-serif;
+ }
+
+@font-face {
+    font-family: 'Aqum';
+    src: url("../font/Aqum.ttf");
+}
+
+/*Картинки верхней навигации*/
+.img-top {
+    max-width: 17px;
+}
+
+/*Картинки центральной навигации*/
+.img-center {
+    max-width: 25px;
+}
+
+.img-bottom {
+    max-width: 70px;
+    height: 56px;
+}
+
+/*Общее выравнивание*/
+.container {
+    max-width: 1056px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.hover:hover {
+    background-color: red;
+    color: white;
+    transition-duration: 0.5s;
+}
